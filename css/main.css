@@ -176,7 +176,7 @@ td .text-start img {
 [class^="card-body-"] {
     background-size: cover;
     background-position: center;
-    height: 20vh;
+    height: 22vh;
     position: relative;
 }
 
@@ -209,3 +209,32 @@ td .text-start img {
 .card-body-australia { background-image: url("../img/flag-icons-main/flags/4x3/au.svg"); }
 .card-body-paraguay  { background-image: url("../img/flag-icons-main/flags/4x3/py.svg"); }
 .card-body-turquia   { background-image: url("../img/flag-icons-main/flags/4x3/tr.svg"); }
+.card-body-alemania  { background-image: url("../img/flag-icons-main/flags/4x3/de.svg"); }
+.card-body-curazao   { background-image: url("../img/flag-icons-main/flags/4x3/cw.svg"); }
+.card-body-cdm       { background-image: url("../img/flag-icons-main/flags/4x3/ci.svg"); }
+.card-body-ecuador   { background-image: url("../img/flag-icons-main/flags/4x3/ec.svg"); }
+.card-body-holanda   { background-image: url("../img/flag-icons-main/flags/4x3/nl.svg"); }
+.card-body-japon     { background-image: url("../img/flag-icons-main/flags/4x3/jp.svg"); }
+.card-body-suecia    { background-image: url("../img/flag-icons-main/flags/4x3/se.svg"); }
+.card-body-tunez     { background-image: url("../img/flag-icons-main/flags/4x3/tn.svg"); }
+.card-body-espana    { background-image: url("../img/flag-icons-main/flags/4x3/es.svg"); }
+.card-body-cabo-verde{ background-image: url("../img/flag-icons-main/flags/4x3/cv.svg"); }
+.card-body-arabia    { background-image: url("../img/flag-icons-main/flags/4x3/sa.svg"); }
+.card-body-uruguay   { background-image: url("../img/flag-icons-main/flags/4x3/uy.svg"); }
+.card-body-francia   { background-image: url("../img/flag-icons-main/flags/4x3/fr.svg"); }
+.card-body-senegal   { background-image: url("../img/flag-icons-main/flags/4x3/sn.svg"); }
+.card-body-irak      { background-image: url("../img/flag-icons-main/flags/4x3/iq.svg"); }
+.card-body-noruega   { background-image: url("../img/flag-icons-main/flags/4x3/no.svg"); }
+.card-body-argentina { background-image: url("../img/flag-icons-main/flags/4x3/ar.svg"); }
+.card-body-argelia   { background-image: url("../img/flag-icons-main/flags/4x3/dz.svg"); }
+.card-body-austria   { background-image: url("../img/flag-icons-main/flags/4x3/at.svg"); }
+.card-body-jordania  { background-image: url("../img/flag-icons-main/flags/4x3/jo.svg"); }
+.card-body-portugal  { background-image: url("../img/flag-icons-main/flags/4x3/pt.svg"); }
+.card-body-congo     { background-image: url("../img/flag-icons-main/flags/4x3/cd.svg"); }
+.card-body-uzbekistan{ background-image: url("../img/flag-icons-main/flags/4x3/uz.svg"); }
+.card-body-colombia  { background-image: url("../img/flag-icons-main/flags/4x3/co.svg"); }
+.card-body-inglaterra{ background-image: url("../img/flag-icons-main/flags/4x3/gb-eng.svg"); }
+.card-body-croacia   { background-image: url("../img/flag-icons-main/flags/4x3/hr.svg"); }
+.card-body-ghana     { background-image: url("../img/flag-icons-main/flags/4x3/gh.svg"); }
+.card-body-panama    { background-image: url("../img/flag-icons-main/flags/4x3/pa.svg"); }
+
