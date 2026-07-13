@@ -2,6 +2,13 @@
 
 Abrir el index.html
 
+index.html
+pages/ (grupos, grupo-a… sponsors, etc.)
+css/ (main.css)
+sass/ (tu style.scss si lo entregás)
+img/ (imágenes + flags)
+README.md
+
 Este proyecto es una página web dedicada al **Mundial de Fútbol 2026**, desarrollada como parte del trabajo final de la materia **Desarrollo Web**.  
 El sitio presenta información sobre equipos, sedes, calendario y curiosidades del torneo.
 
