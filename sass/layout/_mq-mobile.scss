@@ -1,0 +1,46 @@
+// VARIABLES
+@use "../utilities/variables" as *;
+// MOBILE
+// ==========================
+@media (max-width: 768px) {
+  .flip-back {
+    display: block;
+
+    .card-content {
+      display: block;
+      padding: 2px;
+      text-align: center;
+    }
+
+    h5 {
+      display: none;
+      font-size: 0.2rem;
+      margin-bottom: 2px;
+    }
+
+    p {
+      font-size: 0.7rem;
+      margin-bottom: 2px;
+      line-height: 1.1;
+    }
+  }
+
+  .flip-card:hover {
+    transform: none;
+  }
+}
+
+header {
+  color: $color-text-light;
+  display: block;
+  justify-content: center;
+  position: relative;
+
+  img {
+    display: block;
+    height: 20vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center 30%;
+  }
+}
