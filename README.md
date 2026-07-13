@@ -32,4 +32,9 @@ El sitio web ofrece una experiencia visual atractiva sobre el **Mundial 2026**, 
 ```bash
 git clone https://github.com/Gonzalo-Emanuel-Soto/Proyecto-Final-DW.git
 
+## 🚀 Cómo visualizar el proyecto
+1. Entrá al link de **GitHub Pages** del repositorio.
+2. Abrí `index.html` para ver el sitio.
+
+
 
