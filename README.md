@@ -27,4 +27,9 @@ El sitio web ofrece una experiencia visual atractiva sobre el **Mundial 2026**, 
 
 <img width="1900" height="896" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d857f718-10a3-4680-9330-131ff525589f" />
 
+## 🚀 Cómo visualizar el proyecto
+1) Cloná el repositorio:
+```bash
+git clone https://github.com/Gonzalo-Emanuel-Soto/Proyecto-Final-DW.git
+
 
