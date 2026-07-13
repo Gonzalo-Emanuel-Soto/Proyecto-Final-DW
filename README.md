@@ -25,10 +25,6 @@ El sitio web ofrece una experiencia visual atractiva sobre el **Mundial 2026**, 
 - Calendario de partidos y resultados (según la página implementada)
 - Sección de **redes sociales** para seguir las novedades
 
-## 🚀 Cómo visualizar el proyecto
-1) Cloná el repositorio:
-```bash
-git clone https://github.com/Gonzalo-Emanuel-Soto/Proyecto-Final-DW.git
+<img width="1900" height="896" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d857f718-10a3-4680-9330-131ff525589f" />
 
-<img width="1900" height="896" alt="Screenshot_2" src="https://github.com/user-attachments/assets/36a64118-3661-4ee8-92f6-5757979b623f" />
 
