@@ -1,0 +1,69 @@
+main {
+  min-height: 100vh;
+}
+
+main img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+main section .container a {
+  text-decoration: none;
+}
+
+.list-group-item {
+  display: grid !important;
+  grid-template-columns: 90px 1fr 90px;
+  align-items: center;
+}
+.list-group-item span {
+  text-align: center;
+}
+
+.stadium {
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+}
+.stadium:hover {
+  overflow: visible;
+  white-space: normal;
+  color: #fff;
+  padding: 2px 4px;
+  border-radius: 4px;
+  position: relative;
+  z-index: 10;
+}
+
+.sponsors-bg {
+  position: relative;
+  min-height: 100vh;
+}
+.sponsors-bg > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.sponsors-bg .container {
+  justify-content: left;
+  position: relative;
+  z-index: 1;
+}
+
+.sponsor-logo {
+  filter: grayscale(100%);
+  opacity: 0.8;
+  transition: all 0.3s;
+}
+.sponsor-logo:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
